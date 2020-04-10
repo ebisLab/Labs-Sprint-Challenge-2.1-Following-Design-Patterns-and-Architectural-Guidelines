@@ -45,10 +45,9 @@ Describe your contribution to your team's goals this sprint.
 
 - Describe your product's application structure and code patterns. Why or why not is your team using a linter? If applicable, describe the structure of your API.
 
+ * My team mates are using Linter, I'm not since I've noticed it formats already formatted files, and files I don't even touch. I'm still learning how to play around with the settings, so for now it's turned off. 
 
-* My team mates are using Linter, I'm not since I've noticed it formats already formatted files, and files I don't even touch. I'm still learning how to play around with the settings, so for now it's turned off. 
-
-The structure of our API at first was based off how React Hook Forms and Antd  nested data format, but once we removed the React Hook Forms, it would output the correct properties that the backend from Apollo had auto generated. 
+ * The structure of our API at first was based off how React Hook Forms and Antd  nested data format, but once we removed the React Hook Forms, it would output the correct properties that the backend from Apollo had auto generated. 
 
 **UX designers:**
 
